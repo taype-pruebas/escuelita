@@ -1,2 +1,2 @@
 aqui crear recursos ya esta el directorio /api por defecto
-PD: no tocar nada de lo demas
+PD: no tocar nada de lo demas :v
